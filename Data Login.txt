@@ -1,0 +1,11 @@
+Guru
+ID: Basmara
+PW: 12345678
+
+Siswa
+ID: Burhanudin
+PW: 123
+
+Admin
+ID: basmara09
+PW: burhanudin123
