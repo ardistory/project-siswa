@@ -24,7 +24,7 @@
         <li class="nav-item">
           <a href="index.php?page=detail_akun" class="nav-link">
             <i class="fas fa-angle-right nav-icon"></i>
-              <p>Detail Akun</p>
+            <p>Detail Akun</p>
           </a>
         </li>
       </ul>
@@ -42,7 +42,7 @@
         <li class="nav-item">
           <a href="index.php?page=edit_profil" class="nav-link">
             <i class="fas fa-angle-right nav-icon"></i>
-              <p>Edit Profil</p>
+            <p>Edit Profil</p>
           </a>
         </li>
       </ul>
@@ -61,13 +61,19 @@
         <li class="nav-item">
           <a href="index.php?page=input_nilai" class="nav-link">
             <i class="fas fa-angle-right nav-icon"></i>
-              <p>Input Nilai Mapel</p>
+            <p>Input Nilai Mapel</p>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="index.php?page=data_nilai" class="nav-link">
+            <i class="fas fa-angle-right nav-icon"></i>
+            <p>Data Nilai Mapel</p>
           </a>
         </li>
       </ul>
     </li>
 
-   <!--  <li class="nav-item has-treeview">
+    <!--  <li class="nav-item has-treeview">
       <a href="#" class="nav-link">
         <i class="nav-icon fas fa-list"></i>
         <p>
@@ -85,7 +91,7 @@
       </ul>
     </li>
  -->
-<!--     <li class="nav-header">AKADEMIK</li>
+    <!--     <li class="nav-header">AKADEMIK</li>
     <li class="nav-item has-treeview">
       <a href="#" class="nav-link">
         <i class="nav-icon fas fa-calendar-alt"></i>
